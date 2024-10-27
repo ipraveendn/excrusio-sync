@@ -1,1 +1,5 @@
 # excrusio-sync
+The app which uses VR and shows the places in visually.
+Basically if someone is not willing to visit the place in person, he / she will come to the Excrusio Sync and search for the places and then the location is now available in 360° view which can be viewed by a VR device and experience, not only this  this particular app will have the live recording of few places ( if possible ) and also the temparature in that area  and this temparature will be experienced by a person by giving some suit to wear or we can also do it by adjusting the room temperature of the same person who's using the app.
+
+There might be another set of mindset saying, I've to visit the place in person and for these kinda one's we'll also provide a section where first he/ she can feel the place visually and then go there if needed, we also will have the restaurants available and hotels for stay in nearby places.
